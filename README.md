@@ -10,6 +10,8 @@ Install dependencies with:
 bun install
 ```
 
+Copy `.env.example` to `.env` and fill in the values in `/apps/api` and `/apps/ui` folders.
+
 Start the project with:
 ```bash
 bun run dev
